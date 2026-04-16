@@ -21,7 +21,7 @@ const villas = [
         name: "Villa Gunung View",
         mainImage: "https://raw.githubusercontent.com/username/repo/main/images/villa1-main.jpg",
         images: [
-            "https://raw.githubusercontent.com/username/repo/main/images/villa1-1.jpg",
+            "https://raw.githubusercontent.com/villatawangmangu/villa/main/1-1.jpg",
             "https://raw.githubusercontent.com/username/repo/main/images/villa1-2.jpg",
             "https://raw.githubusercontent.com/username/repo/main/images/villa1-3.jpg",
             "https://raw.githubusercontent.com/username/repo/main/images/villa1-4.jpg"

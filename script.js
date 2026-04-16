@@ -19,7 +19,7 @@ const villas = [
     {
         id: 1,
         name: "Villa Gunung View",
-        mainImage: "https://raw.githubusercontent.com/username/repo/main/images/villa1-main.jpg",
+        mainImage: "https://raw.githubusercontent.com/villatawangmangu/villa/main/1-1.jpg",
         images: [
             "https://raw.githubusercontent.com/villatawangmangu/villa/main/1-1.jpg",
             "https://raw.githubusercontent.com/username/repo/main/images/villa1-2.jpg",
